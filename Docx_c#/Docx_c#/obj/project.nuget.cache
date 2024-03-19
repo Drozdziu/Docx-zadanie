@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YFfGi2QxARdebj61YmIMGQn1Bk0Bn+XHzwCur9HJ0+CO2UqL+vO147NZI4EyhXuuMOFqQcbdSg+iSmrbGtzYSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Praktyka\\Desktop\\praktyki3P2\\Docx_c#\\Docx_c#\\Docx_c#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Praktyka\\.nuget\\packages\\documentformat.openxml\\3.0.2\\documentformat.openxml.3.0.2.nupkg.sha512",
+    "C:\\Users\\Praktyka\\.nuget\\packages\\documentformat.openxml.framework\\3.0.2\\documentformat.openxml.framework.3.0.2.nupkg.sha512",
+    "C:\\Users\\Praktyka\\.nuget\\packages\\microsoft.office.interop.word\\15.0.4797.1004\\microsoft.office.interop.word.15.0.4797.1004.nupkg.sha512",
+    "C:\\Users\\Praktyka\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
